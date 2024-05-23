@@ -1,0 +1,31 @@
+.form {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .formInput {
+    margin-bottom: 16px !important;
+    margin-top: 18px;
+  }
+  
+  .forgotPasswordLink {
+    margin-top: 8px;
+  }
+
+
+  .modal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .modal-content {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+  }
